@@ -1,0 +1,31 @@
+﻿
+Home -> Index -> OnActionExecuting 	- 4/25/2016 3:02:09 PM
+
+Home -> Index -> OnActionExecuted 	- 4/25/2016 3:02:09 PM
+
+Home -> Index -> OnResultExecuting 	- 4/25/2016 3:02:09 PM
+
+Home -> Index -> OnResultExecuted 	- 4/25/2016 3:02:09 PM
+-------------------------
+Home -> Index -> OnActionExecuting 	- 4/25/2016 3:02:32 PM
+
+Home -> Index -> OnActionExecuted 	- 4/25/2016 3:02:32 PM
+
+Home -> Index -> OnResultExecuting 	- 4/25/2016 3:02:32 PM
+
+Home -> Index -> OnResultExecuted 	- 4/25/2016 3:02:32 PM
+-------------------------
+Home -> Welcome -> OnActionExecuting 	- 4/25/2016 3:02:59 PM
+
+Home -> Welcome -> OnActionExecuted 	- 4/25/2016 3:02:59 PM
+
+Home -> Welcome -> Exception Occurred.... 	- 4/25/2016 3:02:59 PM
+-------------------------
+Home -> Index -> OnActionExecuting 	- 4/25/2016 3:37:31 PM
+
+Home -> Index -> OnActionExecuted 	- 4/25/2016 3:37:31 PM
+
+Home -> Index -> OnResultExecuting 	- 4/25/2016 3:37:31 PM
+
+Home -> Index -> OnResultExecuted 	- 4/25/2016 3:37:31 PM
+-------------------------
