@@ -1,0 +1,8 @@
+﻿
+@{
+    ViewBag.Title = "Index2";
+}
+
+<h2>Country Names</h2>
+
+@Html.Action("Countries", new { countryNames = new List<String>() { "US", "UK" } })
